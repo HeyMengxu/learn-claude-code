@@ -1,0 +1,202 @@
+{
+  "student_A": {
+    "tokens": {
+      "A": 2697,
+      "B": 1307,
+      "C": 664,
+      "D": 1002
+    },
+    "query_quality_scores": {
+      "A": 4.333333333333333,
+      "B": 4.333333333333333,
+      "C": 4.0,
+      "D": 4.0
+    },
+    "query_details": {
+      "A": [
+        4,
+        4,
+        5
+      ],
+      "B": [
+        4,
+        5,
+        4
+      ],
+      "C": [
+        4,
+        4,
+        4
+      ],
+      "D": [
+        4,
+        4,
+        4
+      ]
+    },
+    "profile_quality_C": {
+      "detail_preservation": 3,
+      "accuracy": 4,
+      "actionability": 4,
+      "overall_quality": 3.67,
+      "reason": "The profile accurately captures the learner's core pattern of strong conceptual understanding with contextual application gaps, and provides actionable focus areas, but loses concrete examples (e.g., 'Shakespeare have written') that would enhance specificity and instructional precision."
+    },
+    "profile_quality_D": {
+      "detail_preservation": 3,
+      "accuracy": 3,
+      "actionability": 3,
+      "overall_quality": 3,
+      "reason": "The profile accurately captures main learning patterns but oversimplifies by claiming 4 sessions when 5 exist, loses specific examples (Shakespeare, movie, homework), and provides moderately actionable but somewhat generic recommendations without concrete next-step examples."
+    },
+    "profile_C": {
+      "overall_level": "intermediate",
+      "consistent_strengths": [
+        "Strong conceptual understanding of grammar rules",
+        "Ability to apply rules to new examples independently",
+        "Self-correction and responsiveness to explanation",
+        "Logical reasoning about tense usage",
+        "Clear articulation of grammatical concepts"
+      ],
+      "persistent_weaknesses": [
+        "Subject-verb agreement errors in complex constructions",
+        "Overgeneralization of rules to exceptions (e.g., deceased persons requiring simple past)",
+        "Initial confusion between simple past and present perfect before guided instruction",
+        "Inconsistent application of contextual rules across different scenarios"
+      ],
+      "learning_trajectory": "improving",
+      "recommended_focus": "Focus on contextual exceptions and edge cases (deceased persons, specific time markers) through targeted practice to move from conceptual understanding to consistent, nuanced application."
+    },
+    "profile_D": {
+      "overall_level": "intermediate",
+      "consistent_strengths": [
+        "Strong vocabulary foundation",
+        "Ability to apply abstract grammar concepts to concrete examples",
+        "Quick pattern recognition and self-correction",
+        "Correct use of present perfect in original sentence construction",
+        "Ability to create grammatically correct example sentences",
+        "Understanding of present perfect for ongoing actions",
+        "Recognition of time marker constraints with present perfect",
+        "Logical reasoning about why certain constructions are incorrect",
+        "Ability to distinguish between specific time references and general completion",
+        "Comprehension of how present perfect emphasizes current relevance",
+        "Metacognitive awareness of reasoning process",
+        "Application of concepts to new examples",
+        "Making valid observations about overlapping meanings between tenses",
+        "Recognizing subtle semantic differences through guided examples",
+        "Self-correcting understanding based on tutor feedback",
+        "Clear conceptual grasp of temporal distinctions (action-relevant-to-present versus time-specific)"
+      ],
+      "persistent_weaknesses": [
+        "Initial confusion about when to apply present perfect in writing (resolved through guided practice in Session 1)",
+        "Initial confusion about functional difference between simple past and present perfect (resolved through logical reasoning in Session 2; example: proposed 'I have seen that movie last week')",
+        "Tendency to overgeneralize the 'relevance to present' rule without accounting for context-specific factors such as speaker/subject status (demonstrated in Session 3 with Shakespeare example: incorrectly used 'have written')",
+        "Initial difficulty distinguishing temporal implications of duration phrases (resolved in Session 4 through guided examples)"
+      ],
+      "learning_trajectory": "improving",
+      "recommended_focus": "Transition to present perfect continuous and past perfect constructions, building on demonstrated mastery of present perfect versus past tense distinction; continue refining application of context-specific factors in tense selection.",
+      "session_count": 4
+    }
+  },
+  "student_B": {
+    "tokens": {
+      "A": 2642,
+      "B": 1056,
+      "C": 712,
+      "D": 1036
+    },
+    "query_quality_scores": {
+      "A": 4.0,
+      "B": 4.666666666666667,
+      "C": 5.0,
+      "D": 4.666666666666667
+    },
+    "query_details": {
+      "A": [
+        4,
+        4,
+        4
+      ],
+      "B": [
+        4,
+        5,
+        5
+      ],
+      "C": [
+        5,
+        5,
+        5
+      ],
+      "D": [
+        5,
+        5,
+        4
+      ]
+    },
+    "profile_quality_C": {
+      "detail_preservation": 3,
+      "accuracy": 4,
+      "actionability": 4,
+      "overall_quality": 3.67,
+      "reason": "The profile accurately captures the learner's trajectory and patterns with good support from sessions, and offers actionable guidance, but loses concrete examples (e.g., the 'despite' signal word breakthrough, the 80% battery cost detail) that would make it more memorable and instructionally specific."
+    },
+    "profile_quality_D": {
+      "detail_preservation": 4,
+      "accuracy": 3,
+      "actionability": 4,
+      "overall_quality": 3.67,
+      "reason": "The profile preserves many concrete examples (80% cost decrease, battery storage, polar bears) and provides actionable guidance, but claims a 4-session trajectory when 5 sessions occurred, misses Session 5's inferencing focus, and overstates confidence in some weakness patterns without sufficient evidence across all sessions."
+    },
+    "profile_C": {
+      "overall_level": "intermediate",
+      "consistent_strengths": [
+        "Making inferences and drawing conclusions from text",
+        "Receptiveness to feedback and ability to revise understanding",
+        "Identifying key details and evidence",
+        "Self-awareness about reading difficulties",
+        "Active listening and engagement with instruction"
+      ],
+      "persistent_weaknesses": [
+        "Distinguishing main ideas from supporting details",
+        "Connecting information across multiple paragraphs",
+        "Recognizing subtle qualifiers and signal words",
+        "Moving from isolated detail recognition to seeing how details support overarching themes"
+      ],
+      "learning_trajectory": "improving",
+      "recommended_focus": "Continue practicing multi-paragraph text analysis using signal words and paragraph connections to consolidate the breakthrough understanding demonstrated in Session 4."
+    },
+    "profile_D": {
+      "overall_level": "beginner",
+      "consistent_strengths": [
+        "Basic comprehension of text content",
+        "Ability to paraphrase passage information",
+        "Inference-making with guidance",
+        "Logical reasoning about author's intent",
+        "Making observations about text complexity",
+        "Attempting to summarize key concepts",
+        "Responding to scaffolding and strategic guidance",
+        "Locating relevant textual evidence",
+        "Self-awareness about reading comprehension challenges",
+        "Understanding that main ideas are broader than supporting details",
+        "Ability to recognize when struggling with a concept",
+        "Readiness to apply new strategies to upcoming tasks",
+        "Identifying specific supporting details (e.g., '80% cost decrease')",
+        "Understanding how to interpret signal words and contextual cues when explicitly guided",
+        "Ability to revise interpretation when given explanation",
+        "Recognizing how evidence connects to support a central argument"
+      ],
+      "persistent_weaknesses": [
+        "Recognizing temporal significance and long-term processes (e.g., 'gradually over centuries')",
+        "Identifying broader conceptual impact and significance beyond surface-level details",
+        "Conflating examples with main ideas",
+        "Distinguishing between topic and author's message/argument",
+        "Confusing details with main ideas during independent reading",
+        "Inconsistent application of main idea identification strategies across different passages",
+        "Interpreting acknowledged obstacles or counterarguments as negating the author's main argument (e.g., treating battery storage problem as opposition rather than acknowledged challenge)",
+        "Reading paragraphs in isolation rather than understanding their interconnected relationship to support a central theme"
+      ],
+      "learning_trajectory": "improving",
+      "recommended_focus": "Build on Session 4 breakthrough by providing repeated practice distinguishing between acknowledged obstacles and main arguments across multiple passages, while continuing to reinforce multi-paragraph text analysis and one-sentence summary strategy before addressing temporal and conceptual significance.",
+      "session_count": 4
+    }
+  }
+}
