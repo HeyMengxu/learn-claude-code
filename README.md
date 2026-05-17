@@ -1,3 +1,24 @@
+# Hierarchical Memory Experiment
+
+This experiment extends learn-claude-code with a three-tier 
+hierarchical memory architecture for long-horizon educational agents.
+
+## Files
+- `experiment2.py` — main experiment runner with 4 memory conditions
+- `sessions_data.json` — synthetic student interaction data
+- `results.json` — experimental results
+
+## Usage
+1. Set `ANTHROPIC_API_KEY` in `.env` (copy from `.env.example`)
+2. Activate venv: `source venv/bin/activate`
+3. Install dependencies: `pip install -r requirements.txt`
+4. Run: `python experiment.py`
+
+See accompanying paper for full methodology and analysis.
+
+
+Usage Guidelines from the Original Repo
+
 [English](./README.md) | [中文](./README-zh.md) | [日本語](./README-ja.md)
 # Learn Claude Code -- Harness Engineering for Real Agents
 
